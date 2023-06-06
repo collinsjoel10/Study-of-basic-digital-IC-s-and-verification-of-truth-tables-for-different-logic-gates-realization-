@@ -104,5 +104,9 @@ RTL
 
 ![227095196-4329b629-1b2b-4919-a92e-4e8706f80216](https://user-images.githubusercontent.com/118626456/228590148-92f3113c-c707-4097-a344-40158b3ed851.jpeg)
 
-Result:
+![image](https://github.com/collinsjoel10/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118626456/966bc63b-3f94-4d3e-8cfb-58aa424579ef)
+
+
+##Result
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
